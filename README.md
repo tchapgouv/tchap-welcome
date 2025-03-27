@@ -17,7 +17,6 @@
   </a>
 </p>
 
-<img src="/docs/assets/docs_live_collaboration_light.gif" width="100%" align="center"/>
 
 ## La suite numérique
 
@@ -49,15 +48,3 @@ There are two android mobile application available :
 
 **💻 Desktop**
 Still under development, the desktop app will be available soon. https://github.com/tchapgouv/tchap-desktop
-
-
-### The backend
-Our backend is based on [synapse](https://github.com/element-hq/synapse), in which we added a list of modules and customisations : https://github.com/tchapgouv/tchap-backend/wiki#modules-utilis%C3%A9s
-
-
-
-## Roadmap
-
-- Want to know where the project is headed? [🗺️ Checkout our roadmap](https://tchap.numerique.gouv.fr/feuille-de-route/)
-
-- To have a day to day visualization of our team backlog and tickets. You can checkout the [github roadmap](https://github.com/orgs/tchapgouv/projects/15)
