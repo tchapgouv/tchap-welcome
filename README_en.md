@@ -47,4 +47,5 @@ There are two android mobile application available :
 - The new: https://github.com/tchapgouv/tchap-x-ios
 
 **💻 Desktop**
+
 Still under development, the desktop app will be available soon. https://github.com/tchapgouv/tchap-desktop
